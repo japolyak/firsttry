@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "AntitypeRedwood";
+    src: url("../fonts/AntitypeRedwood/AntitypeRedwood.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Raleway";
+    src: url("../fonts/Raleway/11856.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Helvetica Light";
+    src: url("../fonts/Helvetica Light/9204.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "TopBar";
+    src: url("../fonts/TopBar/15760.otf") format("opentype");
+}
